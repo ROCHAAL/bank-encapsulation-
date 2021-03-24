@@ -15,3 +15,28 @@ SecretDiary
   - get_entries
 
   ```
+
+```
+  Bank
+  group 1 (returning the value of an instance )
+  get balance
+
+  group 2 (changing the value of the instance variable)
+  credit_account(date, amount)
+  debit_account(date, amount)
+
+  group 3 (printing)
+  print_statment
+
+```
+SecretDiary
+
+group 1 (returning the value of an instance (true/false))
+lock
+unlock
+
+group 2 ( add a new value )
+add_entry
+
+group 3 ( get an existent value)
+get_entries
